@@ -441,6 +441,7 @@ namespace BlogEngine.Core.Web
             AddResource("existingBlogToCreateNewBlogFrom");
             AddResource("export");
             AddResource("exportIntoBlogML");
+            AddResource("exportIntoWXR");
             AddResource("extensions");
             AddResource("extractFromTitle");
             AddResource("failed");

@@ -2350,7 +2350,7 @@
   <data name="typeAndEnter" xml:space="preserve">
     <value>Napište a stiskněte Enter</value>
   </data>
-<data name="fontSize" xml:space="preserve">
+  <data name="fontSize" xml:space="preserve">
     <value>Velikost písma</value>
   </data>
   <data name="heading" xml:space="preserve">
@@ -2475,5 +2475,8 @@
   </data>
   <data name="addToPost" xml:space="preserve">
     <value>Přidat k příspěvku</value>
+  </data>
+  <data name="exportIntoWXR" xml:space="preserve">
+    <value>Exportujte obsah svého blogu do souboru WordPress eXtended RSS (WXR).</value>
   </data>
 </root>

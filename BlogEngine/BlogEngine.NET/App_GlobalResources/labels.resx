@@ -2597,4 +2597,7 @@
   <data name="share" xml:space="preserve">
     <value>Share</value>
   </data>
+  <data name="exportIntoWXR" xml:space="preserve">
+    <value>Export your blog's content into WordPress eXtended RSS (WXR) file</value>
+  </data>
 </root>

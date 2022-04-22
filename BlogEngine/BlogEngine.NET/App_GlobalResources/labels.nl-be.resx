@@ -579,4 +579,7 @@
   <data name="emptyLog" xml:space="preserve">
     <value>Maak het logbestand leeg</value>
   </data>
+  <data name="exportIntoWXR" xml:space="preserve">
+    <value>Exporteer de inhoud van uw blog naar WordPress eXtended RSS (WXR)-bestand</value>
+  </data>
 </root>

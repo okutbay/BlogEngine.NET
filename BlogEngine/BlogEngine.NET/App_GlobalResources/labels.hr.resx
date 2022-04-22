@@ -1732,4 +1732,7 @@
   <data name="activeThemes" xml:space="preserve">
     <value>Aktivne Teme</value>
   </data>
+  <data name="exportIntoWXR" xml:space="preserve">
+    <value>Izvezite sadržaj svog bloga u WordPress eXtended RSS (WXR) datoteku</value>
+  </data>
 </root>

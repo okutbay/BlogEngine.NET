@@ -288,6 +288,7 @@
     <Compile Include="Web\Controls\RelatedPostsBase.cs">
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
+    <Compile Include="Web\HttpHandlers\WXRExportHandler.cs" />
     <Compile Include="Web\HttpHandlers\OpmlHandler.cs" />
     <Compile Include="Web\HttpHandlers\RatingHandler.cs" />
     <Compile Include="Web\HttpHandlers\FileHandler.cs" />

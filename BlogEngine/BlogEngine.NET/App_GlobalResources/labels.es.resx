@@ -1739,4 +1739,7 @@
   <data name="phoneMain" xml:space="preserve">
     <value>Teléfono</value>
   </data>
+  <data name="exportIntoWXR" xml:space="preserve">
+    <value>Exporta o contido do teu blog ao ficheiro RSS eXtended (WXR) de WordPress</value>
+  </data>
 </root>

@@ -1048,4 +1048,7 @@
   <data name="virtualPath" xml:space="preserve">
     <value>נתיב וירטואלי</value>
   </data>
+  <data name="exportIntoWXR" xml:space="preserve">
+    <value>ייצא את תוכן הבלוג שלך לקובץ WordPress eXtended RSS (WXR).</value>
+  </data>
 </root>

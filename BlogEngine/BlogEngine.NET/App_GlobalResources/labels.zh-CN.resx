@@ -3333,4 +3333,7 @@
     <value>您还没有写过任何页面. 请使用右边菜单新建页面</value>
     <comment>You have not written any pages so far. To write a new page use the link in the right side menu.</comment>
   </data>
+  <data name="exportIntoWXR" xml:space="preserve">
+    <value>将您的博客内容导出到 WordPress eXtended RSS (WXR) 文件</value>
+  </data>
 </root>

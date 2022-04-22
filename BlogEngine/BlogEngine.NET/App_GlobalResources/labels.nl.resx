@@ -2523,4 +2523,7 @@
   <data name="userNewsletter" xml:space="preserve">
     <value>Nieuwsbrief-leden</value>
   </data>
+  <data name="exportIntoWXR" xml:space="preserve">
+    <value>Exporteer de inhoud van uw blog naar WordPress eXtended RSS (WXR)-bestand</value>
+  </data>
 </root>

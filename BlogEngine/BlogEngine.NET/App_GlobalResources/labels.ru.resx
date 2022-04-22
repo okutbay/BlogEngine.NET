@@ -2227,4 +2227,7 @@
   <data name="typeHere" xml:space="preserve">
     <value>Текст...</value>
   </data>
+  <data name="exportIntoWXR" xml:space="preserve">
+    <value>Экспортируйте содержимое своего блога в файл WordPress eXtended RSS (WXR).</value>
+  </data>
 </root>

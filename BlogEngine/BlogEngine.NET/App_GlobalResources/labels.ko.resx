@@ -112,10 +112,10 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="add" xml:space="preserve">
     <value>추가</value>
@@ -1641,5 +1641,8 @@
   </data>
   <data name="toDisableSetTo0" xml:space="preserve">
     <value>비활성화하려면 "0"으로 설정</value>
+  </data>
+  <data name="exportIntoWXR" xml:space="preserve">
+    <value>블로그 콘텐츠를 WordPress eXtended RSS(WXR) 파일로 내보내기</value>
   </data>
 </root>

@@ -1996,4 +1996,7 @@
   <data name="changeName" xml:space="preserve">
     <value>تغییر نام</value>
   </data>
+  <data name="exportIntoWXR" xml:space="preserve">
+    <value>محتوای وبلاگ خود را به فایل RSS (WXR) وردپرس صادر کنید</value>
+  </data>
 </root>

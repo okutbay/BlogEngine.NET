@@ -117,7 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-    <data name="add" xml:space="preserve">
+  <data name="add" xml:space="preserve">
     <value>Ekle</value>
   </data>
   <data name="add_Entry" xml:space="preserve">
@@ -182,7 +182,7 @@
   </data>
   <data name="category" xml:space="preserve">
     <value>Kategori</value>
- </data>
+  </data>
   <data name="changePassword" xml:space="preserve">
     <value>Şifre Değiştir</value>
   </data>
@@ -260,7 +260,7 @@
   </data>
   <data name="emailAddress" xml:space="preserve">
     <value>E-posta adresi</value>
-</data>
+  </data>
   <data name="emailSubjectPrefix" xml:space="preserve">
     <value>Konu öneki</value>
   </data>
@@ -293,7 +293,7 @@
   </data>
   <data name="enableOpenSearchDescription" xml:space="preserve">
     <value>Tüm yeni internet tarayıcılara arama özelliği ekler (Önerilir).</value>
- </data>
+  </data>
   <data name="enablePingbacks" xml:space="preserve">
     <value>Pingbacks etkinleştir</value>
   </data>
@@ -311,7 +311,7 @@
   </data>
   <data name="enableSsl" xml:space="preserve">
     <value>SSL etkinleştir</value>
- </data>
+  </data>
   <data name="enableTrackbacks" xml:space="preserve">
     <value>Trackbacks etkinleştir</value>
   </data>
@@ -320,7 +320,7 @@
   </data>
   <data name="enforce" xml:space="preserve">
     <value>Zorla</value>
- </data>
+  </data>
   <data name="enterValidEmail" xml:space="preserve">
     <value>Lütfen geçerli bir e-posta giriniz</value>
   </data>
@@ -387,10 +387,10 @@
   </data>
   <data name="more" xml:space="preserve">
     <value>Dah fazla</value>
-  </data>  
+  </data>
   <data name="name" xml:space="preserve">
     <value>İsim</value>
- </data>
+  </data>
   <data name="nextPost" xml:space="preserve">
     <value>Sonraki Yazı</value>
   </data>
@@ -462,7 +462,7 @@
   </data>
   <data name="rating" xml:space="preserve">
     <value>Değerlendirme</value>
- </data>
+  </data>
   <data name="receive" xml:space="preserve">
     <value>Alınan</value>
   </data>
@@ -2438,7 +2438,7 @@
     <value>Yeni pencere</value>
   </data>
   <data name="avatarSize" xml:space="preserve">
-    <value>Avatar boyutu (> pixels)</value>
+    <value>Avatar boyutu (&gt; pixels)</value>
   </data>
   <data name="numberOfCommenters" xml:space="preserve">
     <value>Yorum yapanların sayısı</value>
@@ -2533,5 +2533,8 @@
   </data>
   <data name="errorMessage" xml:space="preserve">
     <value>Hata Mesajı</value>
+  </data>
+  <data name="exportIntoWXR" xml:space="preserve">
+    <value>Blogunuzun içeriğini WordPress eXtended RSS (WXR) dosyasına aktarın</value>
   </data>
 </root>

@@ -314,6 +314,7 @@ excerpt
 existingBlogToCreateNewBlogFrom
 export
 exportIntoBlogML
+exportIntoWXR
 extensions
 extractFromTitle
 facebookComment

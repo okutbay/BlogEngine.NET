@@ -75,6 +75,10 @@
         location.href = SiteVars.ApplicationRelativeWebRoot + 'blogml.axd';
     }
 
+    $scope.exportToWXR = function () {
+        location.href = SiteVars.ApplicationRelativeWebRoot + 'WXR.axd';
+    }
+
     $scope.importClickOnce = function () {
         var url = 'https://blogengine.io/clickonce/blogimporter/blog.importer.application?url=';
         url += SiteVars.AbsoluteWebRoot + '&username=' + UserVars.Name;

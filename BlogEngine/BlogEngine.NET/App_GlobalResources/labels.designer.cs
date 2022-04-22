@@ -19,7 +19,7 @@ namespace Resources {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option or rebuild the Visual Studio project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Web.Application.StronglyTypedResourceProxyBuilder", "14.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Web.Application.StronglyTypedResourceProxyBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class labels {
@@ -3068,6 +3068,15 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Export your blog&apos;s content into WordPress eXtended RSS (WXR) file.
+        /// </summary>
+        internal static string exportIntoWXR {
+            get {
+                return ResourceManager.GetString("exportIntoWXR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Extensions.
         /// </summary>
         internal static string extensions {
@@ -5980,6 +5989,15 @@ namespace Resources {
         internal static string settingsUpdated {
             get {
                 return ResourceManager.GetString("settingsUpdated", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Share.
+        /// </summary>
+        internal static string share {
+            get {
+                return ResourceManager.GetString("share", resourceCulture);
             }
         }
         

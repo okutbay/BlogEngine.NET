@@ -112,10 +112,10 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="add" xml:space="preserve">
     <value>Shto</value>
@@ -573,5 +573,8 @@
   </data>
   <data name="youAlreadyRated" xml:space="preserve">
     <value>Ju tanimë keni vlerësuar këtë publikim</value>
+  </data>
+  <data name="exportIntoWXR" xml:space="preserve">
+    <value>Eksportoni përmbajtjen e blogut tuaj në skedarin WordPress të zgjeruar RSS (WXR).</value>
   </data>
 </root>

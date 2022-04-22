@@ -2002,4 +2002,7 @@
   <data name="authorDisplayPatternAggregated" xml:space="preserve">
     <value>Format d'affichage dans un blog agrégé (auteur, blog, nombre d'articles)</value>
   </data>
+  <data name="exportIntoWXR" xml:space="preserve">
+    <value>Exportez le contenu de votre blog dans le fichier WordPress eXtended RSS (WXR)</value>
+  </data>
 </root>
